@@ -1,14 +1,10 @@
-<div align="center">
+# Colégio Fantástico — Site Institucional
 
-<sub>EDUCAÇÃO</sub>
+> Documentação da proposta de experiência digital para o Colégio Fantástico.
 
-<h1>Site Institucional Fantástico</h1>
+![documentação](https://img.shields.io/badge/documenta%C3%A7%C3%A3o-EAB308?style=flat-square&labelColor=111827) ![institucional](https://img.shields.io/badge/institucional-EAB308?style=flat-square&labelColor=111827)
 
-<p>Documentação inicial · Código ainda não publicado neste repositório.</p>
-
-<p><a href="#situação-do-repositório">Situação do repositório</a> &nbsp;·&nbsp; <a href="#acessar-o-repositório">Acessar o repositório</a> &nbsp;·&nbsp; <a href="#próximos-passos">Próximos passos</a> &nbsp;·&nbsp; <a href="#colaboração">Colaboração</a></p>
-
-</div>
+**Área:** educação
 
 ---
 
