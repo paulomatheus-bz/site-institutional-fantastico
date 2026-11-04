@@ -1,10 +1,14 @@
+<div align="center">
+
 # Colégio Fantástico — Site Institucional
 
-> Documentação da proposta de experiência digital para o Colégio Fantástico.
+<p>Experiência digital para apresentação do colégio.</p>
 
-![documentação](https://img.shields.io/badge/documenta%C3%A7%C3%A3o-EAB308?style=flat-square&labelColor=111827) ![institucional](https://img.shields.io/badge/institucional-EAB308?style=flat-square&labelColor=111827)
+<img alt="Documentação" src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o-475569?style=for-the-badge&logo=markdown&logoColor=white" />
 
-**Área:** educação
+<sub>PROJETO · PAULO MATHEUS</sub>
+
+</div>
 
 ---
 
