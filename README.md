@@ -38,4 +38,4 @@ Versionar o código da demonstração e revisar textos e imagens antes de qualqu
 
 ---
 
-<p align="center"><sub>Educação · <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a> · Maceió, AL</sub></p>
+<p align="center"><sub>Educação · <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a> · Maceió, AL · <a href="https://www.instagram.com/kmtpl7/">Instagram @kmtpl7</a></sub></p>
