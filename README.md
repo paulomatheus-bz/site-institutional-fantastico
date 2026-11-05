@@ -16,4 +16,8 @@ A proposta organiza as informações em uma navegação atual e simples. Como é
 
 O código ainda não foi organizado neste repositório. Os badges indicam a stack prevista para a próxima versão, não arquivos presentes aqui.
 
+## Continuidade do projeto
+
+A equipe do colégio deve aprovar os textos institucionais, contatos e imagens antes que a demonstração seja usada oficialmente. Depois dessa revisão, posso organizar o código neste repositório e documentar a forma de execução.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
