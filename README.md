@@ -1,4 +1,8 @@
+<div align="center">
+
 # Colégio Fantástico — Site Institucional
+
+*Desenvolvi uma demonstração de site para apresentar o Colégio Fantástico e suas informações institucionais.*
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -7,16 +11,16 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-<p><sub>Stack planejada para esta versão.</sub></p>
-Desenvolvi uma demonstração de site para apresentar o Colégio Fantástico e suas informações institucionais.
+</div>
 
+<p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
 **Ver a página:** https://colegio-fantastico-experiencia.vercel.app
 
 A proposta organiza as informações em uma navegação atual e simples. Como é uma demonstração, textos, serviços, contatos e imagens precisam ser aprovados pelo colégio antes de serem usados como comunicação oficial.
 
 O código ainda não foi organizado neste repositório. Os badges indicam a stack prevista para a próxima versão, não arquivos presentes aqui.
 
-## Continuidade do projeto
+## Validação pelo colégio
 
 A equipe do colégio deve aprovar os textos institucionais, contatos e imagens antes que a demonstração seja usada oficialmente. Depois dessa revisão, posso organizar o código neste repositório e documentar a forma de execução.
 
