@@ -2,8 +2,6 @@
 
 # Colégio Fantástico — Site Institucional
 
-*Desenvolvi uma demonstração de site para apresentar o Colégio Fantástico e suas informações institucionais.*
-
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -12,6 +10,10 @@
 </p>
 
 </div>
+
+Desenvolvi uma demonstração de site para apresentar o Colégio Fantástico e suas informações institucionais.
+
+---
 
 <p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
 **Ver a página:** https://colegio-fantastico-experiencia.vercel.app
