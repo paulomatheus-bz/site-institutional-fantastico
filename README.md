@@ -24,6 +24,6 @@ O código ainda não foi organizado neste repositório. Os badges indicam a stac
 
 ## Validação pelo colégio
 
-A equipe do colégio deve aprovar os textos institucionais, contatos e imagens antes que a demonstração seja usada oficialmente. Depois dessa revisão, posso organizar o código neste repositório e documentar a forma de execução.
+A equipe do colégio deve aprovar os textos institucionais, contatos e imagens antes que a demonstração seja usada oficialmente. Depois dessa revisão, poderei organizar o código neste repositório e documentar a forma de execução.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
