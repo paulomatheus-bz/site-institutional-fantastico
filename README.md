@@ -11,19 +11,14 @@
 
 </div>
 
-Desenvolvi uma demonstração de site para apresentar o Colégio Fantástico e suas informações institucionais.
+Demonstração institucional do Colégio Fantástico.
 
 ---
 
-<p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
 **Ver a página:** https://colegio-fantastico-experiencia.vercel.app
 
-A proposta organiza as informações em uma navegação atual e simples. Como é uma demonstração, textos, serviços, contatos e imagens precisam ser aprovados pelo colégio antes de serem usados como comunicação oficial.
+Demonstração institucional para apresentar informações do Colégio Fantástico. Textos, contatos e imagens precisam de aprovação do colégio antes de uso como comunicação oficial.
 
-O código ainda não foi organizado neste repositório. Os badges indicam a stack prevista para a próxima versão, não arquivos presentes aqui.
-
-## Validação pelo colégio
-
-A equipe do colégio deve aprovar os textos institucionais, contatos e imagens antes que a demonstração seja usada oficialmente. Depois dessa revisão, poderei organizar o código neste repositório e documentar a forma de execução.
+O código ainda não foi adicionado a este repositório. Os badges indicam a stack prevista, não os arquivos atuais.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
