@@ -11,14 +11,14 @@
 
 </div>
 
-Demonstração institucional do Colégio Fantástico.
+Demonstração do site institucional do Colégio Fantástico.
 
 ---
 
-**Ver a página:** https://colegio-fantastico-experiencia.vercel.app
+**Site:** https://colegio-fantastico-experiencia.vercel.app
 
-Demonstração institucional para apresentar informações do Colégio Fantástico. Textos, contatos e imagens precisam de aprovação do colégio antes de uso como comunicação oficial.
+Demonstração institucional do Colégio Fantástico. O colégio precisa aprovar textos, contatos e imagens antes do uso oficial.
 
-O código ainda não foi adicionado a este repositório. Os badges indicam a stack prevista, não os arquivos atuais.
+O código da página não está neste repositório. Os badges mostram a stack prevista.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
