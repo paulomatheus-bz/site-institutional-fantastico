@@ -21,4 +21,9 @@ Demonstração institucional do Colégio Fantástico. O colégio precisa aprovar
 
 O código da página não está neste repositório. Os badges mostram a stack prevista.
 
+
+## Comunicação institucional
+
+Proposta de apresentação digital do Colégio Fantástico, sujeita à aprovação de seus conteúdos oficiais.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
